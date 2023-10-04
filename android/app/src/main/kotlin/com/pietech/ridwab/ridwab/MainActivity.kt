@@ -1,0 +1,6 @@
+package com.pietech.ridwab.ridwab
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
